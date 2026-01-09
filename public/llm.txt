@@ -1,0 +1,51 @@
+# Med Aziz Ben Hmidene
+
+## Role
+Full Stack Software Engineer specializing in distributed systems, cloud infrastructure, and microservices orchestration.
+
+## Contact
+- Email: medazizbenhmidene@gmail.com
+- LinkedIn: https://linkedin.com/in/medazizbenhmidene
+- GitHub: https://github.com/medazizbenhmidene
+- Portfolio: https://www.medazizbenhmidene.com
+
+## Skills
+- Technical: Next.js, React, TypeScript, Node.js, Express.js, Vue.js, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, Microservices, Tailwind CSS, Git
+- Languages: English, French, Arabic
+- Interests: Cloud Computing, Distributed Systems, Open Source, Tech Community, Hackathons
+
+## Projects
+
+### lameh Ai
+A financial Intelligence platform, for Saudi portfolio managers and VCs to make data-driven decisions.
+- Tech Stack: Full Stack, Next.js, Tailwind CSS, TypeScript, FastAPI, PostgreSQL, Pub Sub, Microservices
+- Link: https://www.lameh.ai
+
+### TicTacPneu
+An e-commerce platform for selling tires and wheels.
+- Tech Stack: Full Stack, Next.js, Tailwind CSS, TypeScript, PostgreSQL, Docker, AWS, GoLang
+- Link: https://www.tictacpneus.com
+
+### Generale Energie
+A CRM for a energy company to manage their customers and projects.
+- Tech Stack: Full Stack, Vue.js, Laravel, MySQL, Docker, AWS
+- Link: https://groupe-generale-energie.com
+
+### Atoll palme
+A fashion e-commerce platform for selling clothes and accessories.
+- Tech Stack: Full Stack, Next.js, GoLang, Tailwind CSS, TypeScript, PostgreSQL, Docker, AWS
+- Link: https://www.atoll-palme.fr/en
+
+### 2L courtage
+A CRM for loaning assistance companies to manage their customers and projects.
+- Tech Stack: Full Stack, Next.js, Tailwind CSS, TypeScript, PostgreSQL, Docker, AWS
+- Link: https://www.2l-courtage.fr/
+
+### Hoopooh
+A for managing students and their educational performance.
+- Tech Stack: Frontend, React js, Tailwind CSS, TypeScript, React Query
+- Link: https://www.hoopooh.com
+
+## Education
+- **Private Polytechnic School of Monastir** (2023 - Present): Software Engineering Degree
+- **ISIMM** (2020 - 2023): Bachelor's Degree in Computer Science
