@@ -57,7 +57,7 @@ export default function RootLayout({
     url: "https://www.medazizbenhmidene.com",
     jobTitle: "Full Stack Software Engineer",
     sameAs: [
-      "https://linkedin.com/in/medazizbenhmidene",
+      "https://www.linkedin.com/in/med-aziz-ben-hmidene/",
       "https://github.com/zouno23",
     ],
     alumniOf: [
