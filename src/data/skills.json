@@ -1,0 +1,13 @@
+{
+  "Technical": [
+    "Next.js", "React", "TypeScript", "Node.js", "Express.js", 
+    "Vue.js", "PostgreSQL", "MongoDB", "AWS", "Docker", 
+    "Kubernetes", "Microservices", "Tailwind CSS", "Git"
+  ],
+  "Languages": [
+    "English", "French", "Arabic"
+  ],
+  "Interests": [
+    "Cloud Computing", "Distributed Systems", "Open Source", "Tech Community", "Hackathons"
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "lameh Ai",
+    "description": "A financial Intelligence platform, for Saudi portfolio managers and VCs to make data-driven decisions.",
+    "iframeUrl": "https://www.lameh.ai",
+    "imageUrl": "",
+    "link": "https://www.lameh.ai",
+    "tags": ["Full Stack", "Next.js", "Tailwind CSS", "TypeScript", "FastAPI", "PostgreSQL", "Pub Sub", "Microservices" ]
+  },
+  {
+    "title": "TicTacPneu",
+    "description": "An e-commerce platform for selling tires and wheels.",
+    "iframeUrl": "https://www.tictacpneus.com",
+    "imageUrl": "",
+    "link": "https://www.tictacpneu.com",
+    "tags": ["Full Stack", "Next.js", "Tailwind CSS", "TypeScript", "PostgreSQL", "Docker" , "AWS" , "GoLang"]
+  },
+
+  {
+    "title": "Generale Energie",
+    "description": "A CRM for a energy company to manage their customers and projects.",
+    "iframeUrl": "https://groupe-generale-energie.com",
+    "imageUrl": "",
+    "link": "https://groupe-generale-energie.com",
+    "tags": ["Full Stack", "Vue.js", "Laravel", "MySQL", "Docker" , "AWS" ]
+  },
+  {
+    "title": "Atoll palme",
+    "description": "A fashion e-commerce platform for selling clothes and accessories.",
+    "iframeUrl": "https://www.atoll-palme.fr/en",
+    "imageUrl": "",
+    "link": "https://www.atoll-palme.fr/en",
+    "tags": ["Full Stack", "Next.js","GoLang" ,"Tailwind CSS", "TypeScript", "PostgreSQL", "Docker" , "AWS"  ]
+  },
+  {
+    "title": "2L courtage",
+    "description": "A CRM for loaning assistance companies to manage their customers and projects.",
+    "iframeUrl": "https://www.2l-courtage.fr/",
+    "imageUrl": "",
+    "link": "https://www.2l-courtage.fr/",
+    "tags": ["Full Stack", "Next.js", "Tailwind CSS", "TypeScript", "PostgreSQL", "Docker" , "AWS" ]
+  },
+  {
+    "title": "Hoopooh",
+    "description": "A for managing students and their educational performance.",
+    "iframeUrl": "https://www.hoopooh.com",
+    "imageUrl": "",
+    "link": "https://www.hoopooh.com",
+    "tags": ["Frontend", "React js", "Tailwind CSS", "TypeScript", "React Query" ]
+  }
+]

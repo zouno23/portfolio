@@ -1,20 +1,21 @@
-import { Suspense } from "react";
-import FirstScene from "./FirstScene";
-import HeroText from "../components/HeroText";
-import ChatField from "../components/ChatField";
-import Sections from "../components/sections/index";
+import Hero from "@/components/sections/Hero";
+import Experience from "@/components/sections/Experience";
+import Projects from "@/components/sections/Projects";
+import Education from "@/components/sections/Education";
+import Leadership from "@/components/sections/Leadership";
+import Skills from "@/components/sections/Skills";
+import Contact from "@/components/sections/Contact";
 
 export default function HomePage() {
-
   return (
-   <div className="w-screen h-screen bg-black relative overflow-hidden">
-    <Sections/>
-    <ChatField/>
-    <HeroText/>
-    <Suspense fallback={<span>loading....</span>}>
-    <FirstScene/>
-    </Suspense>
+    <div className="flex flex-col items-center w-full">
+      <Hero />
+      <Experience />
+      <Projects />
+      <Education />
+      <Leadership />
+      <Skills />
+      <Contact />
     </div>
   );
 }
-

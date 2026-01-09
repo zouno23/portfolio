@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Lameh AI",
+    "link": "https://www.lameh.ai",
+    "role": "Software Engineer",
+    "period": "2025 - Present",
+    "description": [
+      "Developing scalable AI-powered solutions.",
+      "Orchestrating microservices for high-performance data processing.",
+      "Implementing cloud infrastructure on AWS."
+    ]
+  },
+  {
+    "company": "GOMYCODE",
+    "link": "https://gomycode.com",
+    "role": "Instructor / Developer",
+    "period": "2025 - Present",
+    "description": [
+      "Mentored students in full-stack web development.",
+      "Contributed to internal tools and curriculum development.",
+      "Led workshops on modern web technologies."
+    ]
+  },
+  {
+    "company": "SW-Consulting",
+    "link": "https://www.linkedin.com/company/swconsultings/posts/?feedView=all",
+    "role": "Full Stack Developer",
+    "period": "2024 - 2025",
+    "description": [
+      "Built responsive web applications using React and Node.js.",
+      "Optimized database queries for improved performance.",
+      "Collaborated with cross-functional teams to deliver features."
+    ]
+  },
+  {
+    "company": "Hoopooh",
+    "link": "https://www.hoopooh.com",
+    "role": "Backend Developer",
+    "period": "3 Months Mission",
+    "description": [
+      "Designed RESTful APIs for mobile and web clients.",
+      "Managed database schema and migrations.",
+      "Ensured high availability and security of backend services."
+    ]
+  },
+  {
+    "company": "Freelance",
+    "link": "#",
+    "role": "Full Stack Developer",
+    "period": "2023 - 2025",
+    "description": [
+      "Delivered custom web solutions for diverse clients.",
+      "Handled end-to-end development from design to deployment.",
+      "Maintained and updated existing legacy applications."
+    ]
+  }
+]

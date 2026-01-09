@@ -1,0 +1,14 @@
+[
+  {
+    "school": "Private Polytechnic School of Monastir",
+    "degree": "Software Engineering Degree",
+    "period": "2023 - Present",
+    "description": "Specializing in advanced software architecture, cloud computing, and distributed systems."
+  },
+  {
+    "school": "ISIMM (Higher Institute of Computer Science and Mathematics of Monastir)",
+    "degree": "Bachelor's Degree in Computer Science",
+    "period": "2020 - 2023",
+    "description": "Foundation in computer science, algorithms, and web development technologies."
+  }
+]
